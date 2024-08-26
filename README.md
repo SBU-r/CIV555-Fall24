@@ -4,5 +4,5 @@
 
 **Review**: Notebooks help you review some prerequisites (background knowledge) of this course
 
-**Learning Modules**: These are the notebooks for this course
+**Notebooks**: These are the notebooks for this course
 
