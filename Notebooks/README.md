@@ -5,3 +5,4 @@ This folder consists of notebooks for learning modules
 - Module 4: Classification
 - Module 5: Clustering
 - Module 6: Neural Networks
+- Module 7: Convolutional Neural Networks
